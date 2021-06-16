@@ -1,0 +1,112 @@
+{
+  "house": [
+    {
+      "id": 1,
+      "ten": "NHÀ NGÕ 2 HỮU LÊ",
+      "diachi": "Xã Thanh Liệt",
+      "giatien": "2.65 tỷ",
+      "dientich": 95,
+      "chitiet": "Mở bán tầng cao ( tầng 20 - tầng 26 )<br><br>*** Chính sách bán hàng cực kỳ ưu đãi tháng 6:<br><br>- Khách hàng được tặng 1 bông hồng vàng trị giá 30 triệu.<br>- Khách hàng thanh toán 95% được chiết khấu 5% giá trị căn hộ.<br>- Khách hàng được hỗ trợ lãi suất 0% trong 12 tháng cho 65% giá trị hợp đồng.<br>- Chiết khấu thêm 1% khi mua căn thứ 2<br><br>*** Quỹ căn hộ và giá bán<br><br>- Căn 2PN : 70m2 - 85m2 : Từ 3.2 tỷ - 3.7 tỷ <br><br>- Căn 3PN: 86m2 - 94.7m2 - 107m2 : Từ 4.2 tỷ - 6.3 tỷ <br><br>Hotline PKD: <span>0971 681 ***</span>",
+      "hinhanh": "ngo2huulematien.jpg"
+    },
+    {
+      "id": 2,
+      "ten": "NHÀ CẦU BƯƠU",
+      "diachi": "Xã Thanh Liệt",
+      "giatien": "3 tỷ",
+      "dientich": 102,
+      "chitiet": "Chủ đầu tư: công ty cổ phần đầu tư và pt đô thị Hà Nội",
+      "hinhanh": "nhacaubuou.jpg"
+    },
+    {
+      "id": 3,
+      "ten": "NHÀ NGÕ 13",
+      "diachi": "Xã Tả Thanh Oai",
+      "giatien": "2 tỷ",
+      "dientich": 60,
+      "chitiet": "Mở bán tầng cao ( tầng 20 - tầng 26 )<br><br>*** Chính sách bán hàng cực kỳ ưu đãi tháng 6:<br><br>- Khách hàng được tặng 1 bông hồng vàng trị giá 30 triệu.<br>- Khách hàng thanh toán 95% được chiết khấu 5% giá trị căn hộ.<br>- Khách hàng được hỗ trợ lãi suất 0% trong 12 tháng cho 65% giá trị hợp đồng.<br>- Chiết khấu thêm 1% khi mua căn thứ 2<br><br>*** Quỹ căn hộ và giá bán<br><br>- Căn 2PN : 70m2 - 85m2 : Từ 3.2 tỷ - 3.7 tỷ <br><br>- Căn 3PN: 86m2 - 94.7m2 - 107m2 : Từ 4.2 tỷ - 6.3 tỷ <br><br>Hotline PKD: <span>0971 681 ***</span>",
+      "hinhanh": "nhango13tathanhoai.jpg"
+    },
+    {
+      "id": 4,
+      "ten": "NHÀ NGÕ 2 HỮU LÊ",
+      "diachi": "Xã Thanh Liệt",
+      "giatien": "2.65 tỷ",
+      "dientich": 95,
+      "chitiet": "Chủ đầu tư: công ty cổ phần đầu tư và pt đô thị hoàng mai",
+      "hinhanh": "ngo2huulematien.jpg"
+    },
+    {
+      "id": 5,
+      "ten": "NHÀ CẦU BƯƠU",
+      "diachi": "Xã Thanh Liệt",
+      "giatien": "3 tỷ",
+      "dientich": 102,
+      "chitiet": "Chủ đầu tư: công ty cổ phần đầu tư và pt đô thị Hà Nội",
+      "hinhanh": "nhacaubuou.jpg"
+    },
+    {
+      "id": 6,
+      "ten": "NHÀ NGÕ 13",
+      "diachi": "Xã Tả Thanh Oai",
+      "giatien": "2 tỷ",
+      "dientich": 60,
+      "chitiet": "Chủ đầu tư: công ty cổ phần xây dưng Thanh Trì",
+      "hinhanh": "nhango13tathanhoai.jpg"
+    },
+    {
+      "id": 7,
+      "ten": "NHÀ NGÕ 2 HỮU LÊ",
+      "diachi": "Xã Thanh Liệt",
+      "giatien": "2.65 tỷ",
+      "dientich": 95,
+      "chitiet": "Chủ đầu tư: công ty cổ phần đầu tư và pt đô thị hoàng mai",
+      "hinhanh": "ngo2huulematien.jpg"
+    },
+    {
+      "id": 8,
+      "ten": "NHÀ CẦU BƯƠU",
+      "diachi": "Xã Thanh Liệt",
+      "giatien": "3 tỷ",
+      "dientich": 102,
+      "chitiet": "Chủ đầu tư: công ty cổ phần đầu tư và pt đô thị Hà Nội",
+      "hinhanh": "nhacaubuou.jpg"
+    },
+    {
+      "id": 9,
+      "ten": "NHÀ NGÕ 13",
+      "diachi": "Xã Tả Thanh Oai",
+      "giatien": "2 tỷ",
+      "dientich": 60,
+      "chitiet": "Chủ đầu tư: công ty cổ phần xây dưng Thanh Trì",
+      "hinhanh": "nhango13tathanhoai.jpg"
+    },
+    {
+      "id": 10,
+      "ten": "NHÀ NGÕ 2 HỮU LÊ",
+      "diachi": "Xã Thanh Liệt",
+      "giatien": "2.65 tỷ",
+      "dientich": 95,
+      "chitiet": "Chủ đầu tư: công ty cổ phần đầu tư và pt đô thị hoàng mai",
+      "hinhanh": "ngo2huulematien.jpg"
+    },
+    {
+      "id": 11,
+      "ten": "NHÀ CẦU BƯƠU",
+      "diachi": "Xã Thanh Liệt",
+      "giatien": "3 tỷ",
+      "dientich": 102,
+      "chitiet": "Chủ đầu tư: công ty cổ phần đầu tư và pt đô thị Hà Nội",
+      "hinhanh": "nhacaubuou.jpg"
+    },
+    {
+      "id": 12,
+      "ten": "NHÀ NGÕ 13",
+      "diachi": "Xã Tả Thanh Oai",
+      "giatien": "2 tỷ",
+      "dientich": 60,
+      "chitiet": "Chủ đầu tư: công ty cổ phần xây dưng Thanh Trì",
+      "hinhanh": "nhango13tathanhoai.jpg"
+    }
+  ]
+}
