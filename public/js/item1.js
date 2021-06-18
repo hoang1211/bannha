@@ -4,7 +4,7 @@ console.log(houseId);
 
 let xhr = new XMLHttpRequest();
 xhr.responseType = "json";
-uri = `http://localhost:3000/house?id=${houseId}`;
+uri = `/house?id=${houseId}`;
 console.log(uri);
 let method = "GET";
 xhr.open(method, uri);
