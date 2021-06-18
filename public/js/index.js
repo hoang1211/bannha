@@ -1,7 +1,7 @@
 $.ajax({
   type: "GET",
   dataType: "json",
-  url: "http://localhost:3000/house",
+  url: "/house",
 })
   .done((house) => {
     house.forEach(
