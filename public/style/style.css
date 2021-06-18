@@ -162,8 +162,14 @@ sup {
   width: auto;
   height: auto;
 }
-.item1_detail {
-  max-width: 600px;
+
+/* ITEM CSS */
+
+.item1_detail_desk {
+  max-width: 50%;
+}
+.item1_detail_mobile {
+  max-width: 100%;
 }
 .title_item {
   font-family: Roboto;
@@ -181,3 +187,4 @@ sup {
   font-weight: bold;
   font-size: 14px;
 }
+

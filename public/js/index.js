@@ -47,5 +47,5 @@ $.ajax({
     );
   })
   .fail((error) => {
-    console.log("error");
+    open("404.html");
   });
